@@ -1,0 +1,6 @@
+{
+  "name": "MyTeacher Platform",
+  "description": "Una plataforma integral para conectar estudiantes con tutores expertos, permitiendo clases en vivo, búsqueda personalizada y gestión de tutorías.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
